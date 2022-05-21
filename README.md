@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Chaimae456
-- 👀 I’m interested in mobile app
+- 👋 Hi, I’m @ChaimaeZARROU
+- 👀 WEB AND MOBILE DEV
 - 🌱 I’m currently learning react native
-- 📫 How to reach me solicode.chaimae@gmail.com
+- 📫 How to reach me zarrou.chaimae@gmail.com
 
 
 <!---
